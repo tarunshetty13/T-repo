@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DaggerSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="radio_maruti">Maruti Suzuki</string>
+    <string name="radio_hyundai">Hyundai</string>
+    <string name="btn_display">Display</string>
+
+</resources>
